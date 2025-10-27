@@ -37,7 +37,10 @@ A fun and interactive **Tic-Tac-Toe Game** built using **HTML, CSS, and JavaScri
 
 ## 🚀 Live Demo
 
-🔗 **Play Tic-Tac-Toe on GitHub Pages**  
+🔗 **Play Tic-Tac-Toe on GitHub Pages**
+
+   [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://ashish-kumar-29.github.io/Tic-Tac-Toe-Game/)
+
 
 
 ---
